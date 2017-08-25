@@ -2,6 +2,6 @@
 A simple captcha solver using python
 
 # Steps:
-# Create Captcha using captcha.php.
-# Break using python and tesseract.
-# Ensure all files are in the same directory.
+* Create Captcha using captcha.php.
+* Break using python and tesseract.
+* Ensure all files are in the same directory.
